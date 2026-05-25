@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-Software%20Development-blue?style=flat-square" alt="Software Development">
   <img src="https://img.shields.io/badge/-Open%20Source-green?style=flat-square" alt="Open Source">
-  <img src="https://img.shields.io/github/followers/[YourGitHubUsername]?label=Follow&style=social" alt="Followers">
+  <img src="https://img.shields.io/github/followers/cbamit?label=Follow&style=social" alt="Followers">
 </p>
 
 ### 🚀 About Me
@@ -31,15 +31,15 @@ I am a passionate developer focused on building clean, efficient, and user-centr
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=visualstudio&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=visualstudio" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cbamit&show_icons=true&theme=visualstudio&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbamit&layout=compact&theme=visualstudio" alt="Top Languages" height="180" />
 </p>
 
 ---
 
 ### 📫 Let's Connect!
 
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/amit-chakraborty-1)
 - **Twitter/X:** [@yourusername](https://twitter.com/yourusername)
 - **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
